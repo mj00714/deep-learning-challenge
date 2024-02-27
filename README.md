@@ -37,4 +37,4 @@ I was provided a large csv file as the basis of the analysis. These are the step
 I was able to achieve an accuracy of 73.36% with a loss measure of 55.97% for my initial attempt and an accuracy measure of 73.89% with 54.69% loss on my final attempt. 
 
 ### Summary
-
+This dataset may be a candidate for analysis with other ML methods we covered in earlier modules. The Kmeans and PCA methods could both apply. PCA would be a good choice because it is useful in segmenting datasets with multiple features. If I was performing this analysis in a work setting, I would attempt both methods and compare the accuracy results before investing time into optimizing the dataset. 
