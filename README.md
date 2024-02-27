@@ -1,7 +1,7 @@
 # deep-learning-challenge
 
 ### Overview
-For this exercise, I set out to use machine learning and a neural network to predict the success of venture funding. 
+For this exercise, I set out to use machine learning and a neural network to predict the success of venture funding. This type of analysis would be useful to help predict the viability of an initiative in the application stage. To train the model, I used a dataset of historical data that contained both a target and feature set. 
 
 I was provided a large csv file as the basis of the analysis. These are the steps for the analysis:
 
